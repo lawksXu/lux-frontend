@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+coverage/
+artifacts/
+**/AGENTS.md
+!/AGENTS.md
+**/AGENT.md
